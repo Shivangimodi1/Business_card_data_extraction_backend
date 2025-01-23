@@ -1,0 +1,12 @@
+# Node.js
+/node_modules
+
+# Python
+env/
+/.env/
+
+# Ignore environment variables file
+.env
+
+# production
+/build
